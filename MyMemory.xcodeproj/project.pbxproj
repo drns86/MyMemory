@@ -33,7 +33,7 @@
 		59F8EF091EE6EE83006B0C8C /* MemoReadVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoReadVC.swift; sourceTree = "<group>"; };
 		59F8EF0B1EE6EF31006B0C8C /* MemoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoCell.swift; sourceTree = "<group>"; };
 		59F8EF0D1EE6EFE8006B0C8C /* MemoData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoData.swift; sourceTree = "<group>"; };
-		59F8EF101EE7024A006B0C8C /* fountainpen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fountainpen@2x.png"; path = "../../PracticeImage/MyMemory/Chapter01/fountainpen@2x.png"; sourceTree = "<group>"; };
+		59F8EF101EE7024A006B0C8C /* fountainpen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fountainpen@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
